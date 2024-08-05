@@ -1,0 +1,4 @@
+com/example/demo/RootServlet.class
+com/example/demo/ClientServlet.class
+com/example/demo/DataEntryServlet.class
+com/example/demo/AuthenticateServlet.class
